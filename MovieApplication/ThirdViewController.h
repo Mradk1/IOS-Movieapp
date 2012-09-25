@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ThirdViewController : UIViewController
-
+@interface ThirdViewController : UIViewController{
+    
+}
+-(IBAction)TweetMe;
+- (IBAction)home:(id)sender;
 @end
